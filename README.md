@@ -50,6 +50,7 @@
 - [2021 arxiv] adversarial YOLO defense human detection patch attacks via detecting adversarial patches, [PDF](http://arxiv.org/abs/2103.08860), physical
 - [2021 arxiv], We Can Always Catch You: Detecting Adversarial Patched Objects WITH or WITHOUT Signature, [PDF](https://arxiv.org/abs/2106.05261), physical
 - [ICCV 2019] Towards Adversarially Robust Object Detection, [PDF](http://arxiv.org/abs/1907.10310), digital
+- Knowledge Enhanced Machine Learning Pipeline against Diverse Adversarial Attacks, [PDF](https://arxiv.org/abs/2106.06235), digital
 
 ## Surveys
 
@@ -106,6 +107,14 @@
 - VEDAI：https://downloads.greyc.fr/vedai/
 - DIOR：https://arxiv.org/abs/1909.00133
 - VisDrone: http://aiskyeye.com/
+
+8. **Cars Overhead With Context (COWC)**
+
+- homepage: https://gdo152.llnl.gov/cowc/
+- paper: http://gdo-datasci.ucllnl.org/cowc/mundhenk_et_al_eccv_2016.pdf
+- poster: http://gdo-datasci.ucllnl.org/cowc/ECCV.poster.big.jpg
+- usage: https://arthurdouillard.com/post/nato-challenge/
+
 
 
 
