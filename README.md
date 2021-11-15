@@ -37,12 +37,13 @@
 
 ## Non-Planar Patches/Paining Attack
 
-
+- [2021 arxiv] DPA Learning Robust Physical Adversarial Camouflages for Object Detectors, [PDF](https://arxiv.org/abs/2109.00124), physicals
 - [2021 CVPR] Dual Attention Suppression Attack: Generate adversarial camouflage in physical world, [PDF](http://arxiv.org/abs/2103.01050), [Source code](https://github.com/nlsde-safety-team/DualAttentionAttack), physicals
 - [2020 arxiv] Physical Adversarial Attack on Vehicle Detector in the Carla Simulator, [PDF](http://arxiv.org/abs/2007.16118), digital
 - [2020 CVPR] Universal Physical Camouflage Attack on Object Detectors, [PDF](https://arxiv.org/abs/1909.04326v2), physicals
 - [2019 ICLR] CAMOU: LEARNING A VEHICLE CAMOUFLAGE FOR PHYSICAL ADVERSARIAL ATTACK ON OBJECT DETECTORS IN THE WILD, [PDF](https://openreview.net/forum?id=SJgEl3A5tm), digital
 - [2019 CVPR] MeshAdv Adversarial Meshes for Visual Recognition, [PDF](https://arxiv.org/abs/1810.05206), physical
+- [2019 CVPR] Adversarial Attacks Beyond the Image Space, [PDF](http://lingxixie.com/PDFs/Zeng_CVPR19_PhyAdv.pdf), digital
 
 ## Defense of Attacks on Object Detectors
 
