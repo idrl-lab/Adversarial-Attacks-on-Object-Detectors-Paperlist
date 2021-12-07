@@ -46,7 +46,10 @@
 - [2019 CVPR] Adversarial Attacks Beyond the Image Space, [PDF](http://lingxixie.com/PDFs/Zeng_CVPR19_PhyAdv.pdf), digital
 
 ## Defense of Attacks on Object Detectors
-
+- [2021 ICLR Workshop on Security and Safety in Machine Learning Systems (Travel Award)], [PDF](https://arxiv.org/abs/2104.12609), [[GitHub\]](https://github.com/inspire-group/PatchGuard) [[Slides\]](https://docs.google.com/presentation/d/18CkJgKKFyqg4HiMdmo2NfK-6DLxbfYTz/edit?usp=sharing&ouid=116832966097136449073&rtpof=true&sd=true) [[Poster\], digital](https://drive.google.com/file/d/1EoT8jSNZZqFuWabVtWNctzHPXSfH45Km/view?usp=sharing)
+-  [2021 ACM CCS], DetectorGuard: Provably Securing Object Detectors against Localized Patch Hiding Attacks, [PDF](https://arxiv.org/abs/2102.02956) [[GitHub\]](https://github.com/inspire-group/DetectorGuard) [[ACM DL\]](https://dl.acm.org/doi/10.1145/3460120.3484757) [[Video\]](https://drive.google.com/file/d/1gwsnLxFMzZ6BsJpmsyvlzbWnuYyFI0Fq/view?usp=sharing) [[Slides\]](https://docs.google.com/presentation/d/1IWeeymYDKsQF3HBZxlDRTh6QrXGcmZ1j/edit?usp=sharing&ouid=116832966097136449073&rtpof=true&sd=true), digital
+- [2021 USENIX Security], PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking, [PDF](https://www.usenix.org/conference/usenixsecurity21/presentation/xiang), [[GitHub\]](https://github.com/inspire-group/PatchGuard) [[arXiv Technical Report\]](https://arxiv.org/abs/2005.10884) [[Video\]](https://www.usenix.org/conference/usenixsecurity21/presentation/xiang) [[Slides\]](https://docs.google.com/presentation/d/14-ygg5RA_bUHThUqrYz3lkwERDZVRSA6/edit?usp=sharing&ouid=116832966097136449073&rtpof=true&sd=true), digital
+- [arXiv 2108],PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier, [PDF](https://arxiv.org/abs/2108.09135), [GitHub\]](https://github.com/inspire-group/PatchCleanser), digital
 
 - [2021 arxiv] adversarial YOLO defense human detection patch attacks via detecting adversarial patches, [PDF](http://arxiv.org/abs/2103.08860), physical
 - [2021 arxiv], We Can Always Catch You: Detecting Adversarial Patched Objects WITH or WITHOUT Signature, [PDF](https://arxiv.org/abs/2106.05261), physical
