@@ -35,7 +35,7 @@
 - [2019 ICCV] advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns, [PDF](https://github.com/whuAdv/AdvPattern), [Source code](https://github.com/whuAdv/AdvPattern), physicals
 - [ACM CCS 2016] Accessorize to a Crime: Real and Stealthy Attacks onState-of-the-Art Face Recognition, [PDF](https://www.cs.cmu.edu/%7Esbhagava/papers/face-rec-ccs16.pdf), [Source code](https://github.com/mahmoods01/accessorize-to-a-crime), physicals
 
-## Non-Planar Patches/Paining Attack
+## Non-Planar Patches/Painting Attack
 
 - [2021 arxiv] DPA Learning Robust Physical Adversarial Camouflages for Object Detectors, [PDF](https://arxiv.org/abs/2109.00124), physicals
 - [2021 CVPR] Dual Attention Suppression Attack: Generate adversarial camouflage in physical world, [PDF](http://arxiv.org/abs/2103.01050), [Source code](https://github.com/nlsde-safety-team/DualAttentionAttack), physicals
