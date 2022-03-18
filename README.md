@@ -45,6 +45,10 @@
 - [2019 CVPR] MeshAdv Adversarial Meshes for Visual Recognition, [PDF](https://arxiv.org/abs/1810.05206), physical
 - [2019 CVPR] Adversarial Attacks Beyond the Image Space, [PDF](http://lingxixie.com/PDFs/Zeng_CVPR19_PhyAdv.pdf), digital
 
+## Blackbox Attack
+
+## 3D Attack
+
 ## Defense of Attacks on Object Detectors
 - [2021 ICLR Workshop on Security and Safety in Machine Learning Systems (Travel Award)], [PDF](https://arxiv.org/abs/2104.12609), [[GitHub\]](https://github.com/inspire-group/PatchGuard) [[Slides\]](https://docs.google.com/presentation/d/18CkJgKKFyqg4HiMdmo2NfK-6DLxbfYTz/edit?usp=sharing&ouid=116832966097136449073&rtpof=true&sd=true) [[Poster\]](https://drive.google.com/file/d/1EoT8jSNZZqFuWabVtWNctzHPXSfH45Km/view?usp=sharing), digital
 -  [2021 ACM CCS], DetectorGuard: Provably Securing Object Detectors against Localized Patch Hiding Attacks, [PDF](https://arxiv.org/abs/2102.02956) [[GitHub\]](https://github.com/inspire-group/DetectorGuard) [[ACM DL\]](https://dl.acm.org/doi/10.1145/3460120.3484757) [[Video\]](https://drive.google.com/file/d/1gwsnLxFMzZ6BsJpmsyvlzbWnuYyFI0Fq/view?usp=sharing) [[Slides\]](https://docs.google.com/presentation/d/1IWeeymYDKsQF3HBZxlDRTh6QrXGcmZ1j/edit?usp=sharing&ouid=116832966097136449073&rtpof=true&sd=true), digital
