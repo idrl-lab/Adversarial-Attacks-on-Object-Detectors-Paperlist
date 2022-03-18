@@ -4,7 +4,6 @@
 
 - [2021 arxiv] Physical Adversarial Attacks on an Aerial Imagery Object Detector, [PDF](http://arxiv.org/abs/2108.11765), physical
 - [2021 Information Sciences]Towards a physical-world adversarial patch for blinding object detection models, [PDF](https://www.researchgate.net/publication/346418956_Towards_a_physical-world_adversarial_patch_for_blinding_object_detection_models),  physical
-- [2020 ATVA] Adversarial Patch Camouflage against Aerial Detection, [PDF](https://arxiv.org/abs/2008.13671v1), physical
 - [2020 arxiv] Dynamic Adversarial Patch for Evading Object Detection, [PDF](http://arxiv.org/abs/2010.13070) , physical
 - [2020 arxiv] object hider: adversarial patch attack against object detectors, [PDF](http://arxiv.org/abs/2010.14974), physicals
 - [2020 TPS-ISA] Adversarial Objectness Gradient Attacks on Real-time Object Detection Systems, [PDF](https://khchow.com/media/arXiv_TOG.pdf), [Talk](http://www.youtube.com/watch?v=acWI5pFNvwg), [Source code](https://github.com/git-disl/TOG), digital & physicals
@@ -45,6 +44,15 @@
 - [2019 CVPR] MeshAdv Adversarial Meshes for Visual Recognition, [PDF](https://arxiv.org/abs/1810.05206), physical
 - [2019 CVPR] Adversarial Attacks Beyond the Image Space, [PDF](http://lingxixie.com/PDFs/Zeng_CVPR19_PhyAdv.pdf), digital
 
+## Attack against Aerial Object detectors
+
+- [2020 ATVA] Adversarial Patch Camouflage against Aerial Detection, [PDF](https://arxiv.org/abs/2008.13671v1), digital
+
+- [WACV 2022] [hysical Adversarial Attacks on an Aerial Imagery Object Detector, [homepage](https://bochenys.github.io/publication/#), [PDF](https://idrl.yuque.com/idrl/qmghbs/ctvwdy), [demo](https://www.youtube.com/watch?v=5N6JDZf3pLQ)
+
+- [remote sensing] Scale-Adaptive adversarial patch attack for remote sensing image aircraft detection,[PDF](https://www.mdpi.com/2072-4292/13/20/4078), digital
+
+- [preprint] Adversarial Attacks against a Satellite-borne Multispectral Cloud Detector, [PDF](http://arxiv.org/abs/2112.01723), digital
 ## Blackbox Attack
 
 ## 3D Attack
@@ -114,7 +122,6 @@
 - DLR 3K：[https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5431/9230_read-42467](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5431/9230_read-42467)
 - VEDAI：https://downloads.greyc.fr/vedai/
 - DIOR：https://arxiv.org/abs/1909.00133
-- VisDrone: http://aiskyeye.com/
 
 8. **Cars Overhead With Context (COWC)**
 
@@ -123,6 +130,21 @@
 - poster: http://gdo-datasci.ucllnl.org/cowc/ECCV.poster.big.jpg
 - usage: https://arthurdouillard.com/post/nato-challenge/
 
+
+9. **visdrone**
+
+- Homepage: http://aiskyeye.com/
+- paper: http://arxiv.org/abs/1804.07437
+
+10. **NWPU VHR-10**
+
+- homepage: www.escience.cn/people/gongcheng/NWPU-VHR-10.html
+- paper: http://ieeexplore.ieee.org/document/7560644/
+
+11. **RSOD**
+
+- homepage: https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
+- paper: https://www.tandfonline.com/doi/full/10.1080/01431161.2014.999881
 
 
 
