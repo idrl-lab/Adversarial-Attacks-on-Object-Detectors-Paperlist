@@ -35,8 +35,12 @@
 - [ACM CCS 2016] Accessorize to a Crime: Real and Stealthy Attacks onState-of-the-Art Face Recognition, [PDF](https://www.cs.cmu.edu/%7Esbhagava/papers/face-rec-ccs16.pdf), [Source code](https://github.com/mahmoods01/accessorize-to-a-crime), physicals
 
 ## Non-Planar Patches/Painting Attack
-
-- [2021 arxiv] DPA Learning Robust Physical Adversarial Camouflages for Object Detectors, [PDF](https://arxiv.org/abs/2109.00124), physicals
+- [2022 CVPR] Improving the Transferability of Targeted Adversarial Examples through
+Object-Based Diverse Input, [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Byun_Improving_the_Transferability_of_Targeted_Adversarial_Examples_Through_Object-Based_Diverse_CVPR_2022_paper.pdf), physicals
+- [2022 CVPR] DTA Physical Camouflage Attacks using Differentiable Transformation Network, [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf), physicals
+- [2022 CVPR] Adversarial Texture for Fooling Person Detectors in the Physical World, [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.pdf), physicals
+- [2022 IJCAI] Learning Coated Adversarial Camouflages for Object Detectors, [PDF](https://www.ijcai.org/proceedings/2022/0125.pdf), physicals
+- [2022 AAAI] FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack, [PDF](https://www.aaai.org/AAAI22Papers/AAAI-8153.WangD.pdf), physicals
 - [2021 CVPR] Dual Attention Suppression Attack: Generate adversarial camouflage in physical world, [PDF](http://arxiv.org/abs/2103.01050), [Source code](https://github.com/nlsde-safety-team/DualAttentionAttack), physicals
 - [2020 arxiv] Physical Adversarial Attack on Vehicle Detector in the Carla Simulator, [PDF](http://arxiv.org/abs/2007.16118), digital
 - [2020 CVPR] Universal Physical Camouflage Attack on Object Detectors, [PDF](https://arxiv.org/abs/1909.04326v2), physicals
