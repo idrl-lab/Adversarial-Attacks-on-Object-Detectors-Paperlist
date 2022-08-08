@@ -2,7 +2,6 @@
 
 ## Planar Patches Attack
 
-- [2021 arxiv] Physical Adversarial Attacks on an Aerial Imagery Object Detector, [PDF](http://arxiv.org/abs/2108.11765), physical
 - [2021 Information Sciences]Towards a physical-world adversarial patch for blinding object detection models, [PDF](https://www.researchgate.net/publication/346418956_Towards_a_physical-world_adversarial_patch_for_blinding_object_detection_models),  physical
 - [2020 arxiv] Dynamic Adversarial Patch for Evading Object Detection, [PDF](http://arxiv.org/abs/2010.13070) , physical
 - [2020 arxiv] object hider: adversarial patch attack against object detectors, [PDF](http://arxiv.org/abs/2010.14974), physicals
