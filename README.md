@@ -48,9 +48,11 @@ Object-Based Diverse Input, [pdf](https://openaccess.thecvf.com/content/CVPR2022
 - [2019 CVPR] Adversarial Attacks Beyond the Image Space, [PDF](http://lingxixie.com/PDFs/Zeng_CVPR19_PhyAdv.pdf), digital
 
 ## Attack against Aerial Object detectors
+- [2022 IEEE transactions on geoscience and remote sensing] Benchmarking Adversarial Patch Against Aerial Detection, [PDF](https://arxiv.org/abs/2210.16765v1), aerial imagery, physical
+- 
 
 - [2020 ATVA] Adversarial Patch Camouflage against Aerial Detection, [PDF](https://arxiv.org/abs/2008.13671v1), digital
-
+- [remote sensing, 2022] Adversarial Patch Attack on Multi-Scale Object Detection for UAV Remote Sensing Images, [PDF](https://www.mdpi.com/2072-4292/14/21/5298), UAV related attacks, physical
 - [WACV 2022] [hysical Adversarial Attacks on an Aerial Imagery Object Detector, [homepage](https://bochenys.github.io/publication/#), [PDF](https://idrl.yuque.com/idrl/qmghbs/ctvwdy), [demo](https://www.youtube.com/watch?v=5N6JDZf3pLQ)
 
 - [remote sensing] Scale-Adaptive adversarial patch attack for remote sensing image aircraft detection,[PDF](https://www.mdpi.com/2072-4292/13/20/4078), digital
