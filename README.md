@@ -26,6 +26,10 @@
 - [2018 WOOT] Physical Adversarial Examples for Object Detectors, [PDF](http://arxiv.org/abs/1807.07769)., physicals
 
 ## Pixel-wise Attack
+- [2022 IEEE TRANSACTIONS ON CYBERNETICS] Daedalus: Breaking Nonmaximum Suppression in Object Detection via Adversarial Examples, [PDF](https://ieeexplore.ieee.org/document/9313033/), digital & physical
+
+- [2021 Pattern Recognition] Relevance attack on detectors, [PDF](https://linkinghub.elsevier.com/retrieve/pii/S0031320321006671), digital
+- [2020 Pattern Recognition] Universal adversarial perturbations against object detection, [PDF](https://linkinghub.elsevier.com/retrieve/pii/S0031320320303873), digital
 
 - [2019 BMVC] Attacking Object Detectors via Imperceptible Patches on Background, [PDF](http://arxiv.org/abs/1809.05966), digital
 - [2020 TPS-ISA] Adversarial Objectness Gradient Attacks on Real-time Object Detection Systems, [PDF](https://khchow.com/media/arXiv_TOG.pdf), [Talk](http://www.youtube.com/watch?v=acWI5pFNvwg), [Source code](https://github.com/git-disl/TOG), digital & physicals
