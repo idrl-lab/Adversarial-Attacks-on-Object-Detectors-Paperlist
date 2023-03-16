@@ -26,6 +26,9 @@
 - [2018 WOOT] Physical Adversarial Examples for Object Detectors, [PDF](http://arxiv.org/abs/1807.07769)., physicals
 
 ## Pixel-wise Attack
+
+- [2023 WACV] Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors, [PDF](http://arxiv.org/abs/2205.13618), digital
+
 - [2022 IEEE TRANSACTIONS ON CYBERNETICS] Daedalus: Breaking Nonmaximum Suppression in Object Detection via Adversarial Examples, [PDF](https://ieeexplore.ieee.org/document/9313033/), digital & physical
 
 - [2021 Pattern Recognition] Relevance attack on detectors, [PDF](https://linkinghub.elsevier.com/retrieve/pii/S0031320321006671), digital
