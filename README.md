@@ -64,7 +64,6 @@ Object-Based Diverse Input, [pdf](https://openaccess.thecvf.com/content/CVPR2022
 
 ## Attack against Aerial Object detectors
 - [2022 IEEE transactions on geoscience and remote sensing] Benchmarking Adversarial Patch Against Aerial Detection, [PDF](https://arxiv.org/abs/2210.16765v1), aerial imagery, physical
-- 
 
 - [2020 ATVA] Adversarial Patch Camouflage against Aerial Detection, [PDF](https://arxiv.org/abs/2008.13671v1), digital
 - [remote sensing, 2022] Adversarial Patch Attack on Multi-Scale Object Detection for UAV Remote Sensing Images, [PDF](https://www.mdpi.com/2072-4292/14/21/5298), UAV related attacks, physical
